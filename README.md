@@ -11,6 +11,8 @@ Basic encryptor/decryptor
 This program was created using PyQt5 as a fun way to further implement ideas learned in the 
 Mathematics for Computer Science program provided by the University of London - Coursera.
 
+Link to course : https://www.coursera.org/learn/mathematics-for-computer-science/home/welcome
+
 ## How it works
 
 Program generates random keys to encrypt messages.
