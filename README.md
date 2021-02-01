@@ -1,6 +1,6 @@
 # Funcrypter - PyQt5
 
-Basic encryptor/decryptor
+Basic encrypter/decrypter
 
 ## Screenshot
 
